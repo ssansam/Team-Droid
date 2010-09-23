@@ -6,6 +6,7 @@ A simple hello world program, created by a group.
 */
 
 public class HelloWorldMain {
+
 	public static void main(String[] args) {
 		
 	
@@ -15,6 +16,7 @@ AlfredVasquez alfred = new AlfredVasquez();
 System.out.println("Welcome " + alfred.toString() + "!");
 //LuisCorral Luis = new LuisCorral();
 //System.out.println("Welcome " + luis.toString() + "!");
+
 
 	}
 }
