@@ -6,7 +6,7 @@
  */
 public class JamesDickes {
 	
-	public static String toSting(){
+	public String toString(){
 		return "James Dickes";
 	}
 
