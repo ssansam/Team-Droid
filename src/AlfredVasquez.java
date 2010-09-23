@@ -4,7 +4,7 @@
  *
  */
 public class AlfredVasquez {
-	public static String toSting(){
+	public static String toSting() {
 		return "Alfred Vasquez";
 	}
 }
